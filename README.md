@@ -1,4 +1,4 @@
-AI Dataset Generator
+**AI Dataset Generator**
 
 **Overview**
 
