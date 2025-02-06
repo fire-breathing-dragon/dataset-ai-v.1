@@ -5,7 +5,7 @@ from langchain_ollama import ChatOllama
 number_of_rows = int(input("Enter the quantity of rows: "))
 number_of_columns = int(input("Enter the quantity of columns: "))
 
-# Initialize the LLaMA 2 model
+# Initialize the Deepseek model
 model = ChatOllama(model="deepseek-r1:8b", temperature=0.1, max_tokens=750)
 
 # Define the prompt template
